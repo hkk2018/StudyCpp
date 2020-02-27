@@ -15,18 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source1.cpp">
-      <Filter>來源檔案</Filter>
-    </ClCompile>
     <ClCompile Include="demo.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="try.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="demo.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="try.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>

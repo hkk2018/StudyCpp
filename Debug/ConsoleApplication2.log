@@ -1,7 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   main.cpp
-C:\Users\Android\source\repos\StudyCpp\main.cpp(44,20): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
-  demo.cpp
-  Source1.cpp
-  正在產生程式碼...
+C:\Users\Android\source\repos\StudyCpp\main.cpp(42,20): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
   ConsoleApplication2.vcxproj -> C:\Users\Android\source\repos\StudyCpp\Debug\StudyCpp.exe

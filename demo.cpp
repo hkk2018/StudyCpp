@@ -1,8 +1,14 @@
+//#include <iostream>
 #include "demo.h"
+using namespace std;
 
 Demo::Demo() {
 	set_a(1);
 	set_b(1);
+    //int a = 1;
+    //int* const c = &a;
+    //cout << &a << endl;
+    //cout << c << endl;
 }
 // 一個參數的建構函數
 Demo::Demo(int n1) {
